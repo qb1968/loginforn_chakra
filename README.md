@@ -11,8 +11,8 @@ Clone or fork the repo
 
 In the project directory
 
-# `npm install or yarn `
+### `npm install or yarn `
 
-## 'npm or yarn start'
+### 'npm or yarn start'
 
 ### Only use email:'test@test.com' and password:'password'
